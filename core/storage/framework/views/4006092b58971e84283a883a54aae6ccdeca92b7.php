@@ -1,0 +1,1 @@
+<h1 style="display: block; text-align: center; margin-top: 400px">404</h1><?php /**PATH /home/u376743586/domains/blueoceantech.in/public_html/core/resources/views/errors/404.blade.php ENDPATH**/ ?>
